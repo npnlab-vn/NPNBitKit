@@ -1,0 +1,20 @@
+{
+    "name": "npnbitkit",
+    "version": "0.0.10",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "ESP8266_IoT": "github:npnlab-vn/pxt-esp8266iot"
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+        "NPNBitKit.ts",
+        "NPNLCD.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": false,
+    "installedVersion": "workspace:1cd2cfd9-3a2e-4111-7ffb-f85a02acb562"
+}
